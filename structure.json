@@ -1,0 +1,46 @@
+{
+    "gimmicks": {
+        "Gimmick Name": {
+            "description": "A description of the gimmick.",
+            "parameters": {
+                "Parameter Name 1": {
+                    "data_type": "int",
+                    "slot": 0,
+                    "description": "A description of the parameter."
+                },
+                "Parameter Name 2": {
+                    "data_type": "float",
+                    "slot": 1,
+                    "description": "A description of the parameter."
+                },
+                "Parameter Name 3": {
+                    "data_type": "string",
+                    "slot": 2,
+                    "description": "A description of the parameter."
+                }
+            }
+        }
+    },
+    "common_gimmicks": {
+        "(byte string)": {
+            "description": "A description of the common gimmick.",
+            "parameters": {
+                "Parameter Name 1": {
+                    "data_type": "int",
+                    "slot": 0,
+                    "description": "A description of the parameter."
+                },
+                "Parameter Name 2": {
+                    "data_type": "float",
+                    "slot": 1,
+                    "description": "A description of the parameter."
+                },
+                "Parameter Name 3": {
+                    "data_type": "string",
+                    "slot": 2,
+                    "description": "A description of the parameter."
+                }
+            }
+        }
+    }
+}
