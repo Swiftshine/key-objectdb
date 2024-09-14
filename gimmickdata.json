@@ -1,0 +1,25 @@
+{
+    "gimmicks": {
+        "StageRankSetting": {
+            "description": "A setting related to bead ranking at the end of the level.",
+            "parameters": {
+                "Bronze Threshold": {
+                    "data_type": "int",
+                    "slot": 0,
+                    "description": "The number of beads required for a bronze medal."
+                },
+                "Silver Threshold": {
+                    "data_type": "int",
+                    "slot": 1,
+                    "description": "The number of beads required for a silver medal."
+                },
+                "Gold Threshold": {
+                    "data_type": "int",
+                    "slot": 2,
+                    "description": "The number of beads required for a gold medal."
+                }
+            }
+        }
+    },
+    "common_gimmicks": {}
+}
