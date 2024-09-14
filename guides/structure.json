@@ -2,6 +2,7 @@
     "gimmicks": {
         "Gimmick Name": {
             "description": "A description of the gimmick.",
+            "note": "More detailed information about the gimmick.",
             "parameters": {
                 "Parameter Name 1": {
                     "data_type": "int",
@@ -24,6 +25,7 @@
     "common_gimmicks": {
         "(byte string)": {
             "description": "A description of the common gimmick.",
+            "note": "More detailed information about the gimmick.",
             "parameters": {
                 "Parameter Name 1": {
                     "data_type": "int",
