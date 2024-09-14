@@ -24,6 +24,7 @@
     },
     "common_gimmicks": {
         "(byte string)": {
+            "name": "Gimmick Name",
             "description": "A description of the common gimmick.",
             "note": "More detailed information about the gimmick.",
             "parameters": {
