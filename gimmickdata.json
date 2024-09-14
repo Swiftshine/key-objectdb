@@ -38,5 +38,18 @@
             }
         }
     },
-    "common_gimmicks": {}
+    "common_gimmicks": {
+        "96EE88F38AC594C2": {
+            "name": "Arrow Signboard",
+            "description": "An arrow signboard.",
+            "note": "",
+            "parameters": {}
+        },
+        "8345837E834B8381": {
+            "name": "Sea Turtle",
+            "description": "A sea turtle.",
+            "note": "",
+            "parameters": {}
+        }
+    }
 }
