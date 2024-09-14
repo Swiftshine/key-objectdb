@@ -2,6 +2,7 @@
     "gimmicks": {
         "StageRankSetting": {
             "description": "A setting related to bead ranking at the end of the level.",
+            "note": "",
             "parameters": {
                 "Bronze Threshold": {
                     "data_type": "int",
@@ -17,6 +18,22 @@
                     "data_type": "int",
                     "slot": 2,
                     "description": "The number of beads required for a gold medal."
+                }
+            }
+        },
+        "START": {
+            "description": "The player's starting position.",
+            "note": "",
+            "parameters": {}
+        },
+        "WoolBridge": {
+            "description": "A bridge made of wool.",
+            "note": "",
+            "parameters": {
+                "Length": {
+                    "data_type": "float",
+                    "slot": 0,
+                    "description": ""
                 }
             }
         }
