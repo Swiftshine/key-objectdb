@@ -8,6 +8,10 @@
             "description": "A reference point for paths."
         },
 
+        "BG_BASE": {
+            "description": "Indicates where the background should be rendered."
+        },
+
         "CCC": {
             "description": "A reference point for paths."
         },
