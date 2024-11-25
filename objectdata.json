@@ -3,7 +3,7 @@
         "AAA": {
             "description": "A reference point for paths."
         },
-        
+
         "BBB": {
             "description": "A reference point for paths."
         },
@@ -18,7 +18,6 @@
 
         "StageRankSetting": {
             "description": "A setting related to bead ranking at the end of the level.",
-            "note": "",
             "parameters": {
                 "Bronze Threshold": {
                     "data_type": "int",
@@ -38,13 +37,10 @@
             }
         },
         "START": {
-            "description": "The player's starting position.",
-            "note": "",
-            "parameters": {}
+            "description": "The player's starting position."
         },
         "WoolBridge": {
             "description": "A bridge made of wool.",
-            "note": "",
             "parameters": {
                 "Length": {
                     "data_type": "float",
@@ -57,15 +53,11 @@
     "common_gimmicks": {
         "96EE88F38AC594C2": {
             "name": "Arrow Signboard",
-            "description": "An arrow signboard.",
-            "note": "",
-            "parameters": {}
+            "description": "An arrow signboard."
         },
         "8345837E834B8381": {
             "name": "Sea Turtle",
-            "description": "A sea turtle.",
-            "note": "",
-            "parameters": {}
+            "description": "A sea turtle."
         },
         "53696D706C654D646C476D6B": {
             "name": "Simple Model Gimmick",
