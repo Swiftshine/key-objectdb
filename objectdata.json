@@ -1,5 +1,21 @@
 {
     "gimmicks": {
+        "AAA": {
+            "description": "A reference point for paths."
+        },
+        
+        "BBB": {
+            "description": "A reference point for paths."
+        },
+
+        "CCC": {
+            "description": "A reference point for paths."
+        },
+
+        "DDD": {
+            "description": "A reference point for paths."
+        },
+
         "StageRankSetting": {
             "description": "A setting related to bead ranking at the end of the level.",
             "note": "",
