@@ -86,7 +86,22 @@
             "name": "Cherry Blossom Tree (151)"
         },
         "82DF82AD82E8957A94C49770": {
-            "name": "Cloth Patch"
+            "name": "Cloth Patch",
+            "description": "A cloth patch that is often used to hide secrets.",
+            "parameters": {
+                "Texture": {
+                    "data_type": "dropdown_int",
+                    "slot": 0,
+                    "description": "The texture the cloth patch will use.",
+                    "values": {
+                        "Square": 0,
+                        "Door": 1,
+                        "Treasure Chest": 2,
+                        "Metamortex": 3,
+                        "Box": 4
+                    }
+                }
+            }
         },
         "928B96E990D882E891D682A68358834383628360": {
             "name": "Day/Night Switch"
