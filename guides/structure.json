@@ -52,6 +52,18 @@
                         "Value Name 2": 2
                     }
                 }
+            },
+            "short_parameters": {
+                "Short Parameter Name 1": {
+                    "data_type": "int",
+                    "slot": 0,
+                    "description": "This slot targets a short parameter. See documentation in this game's decompilation."
+                },
+                "Short Parameter Name 2": {
+                    "data_type": "string",
+                    "note": "You can use different data types for short parameters.",
+                    "description": "This string's length is limited to 8 characters."
+                }
             }
         }
     }
