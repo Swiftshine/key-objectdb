@@ -70,9 +70,8 @@
             "parameters": {
                 "Resource Name": {
                     "data_type": "string",
-                    "slot": -1,
-                    "description": "The name of the GfArch archive.",
-                    "char_limit": 32
+                    "slot": 0,
+                    "description": "The name of the GfArch archive."
                 }
             }
         }
