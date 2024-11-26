@@ -42,6 +42,15 @@
                     "data_type": "string",
                     "slot": 2,
                     "description": "A description of the parameter."
+                },
+                "Parameter Name 4": {
+                    "data_type": "dropdown_int",
+                    "slot": 0,
+                    "description": "A description of the parameter.",
+                    "values": {
+                        "Value Name 1": 1,
+                        "Value Name 2": 2
+                    }
                 }
             }
         }
