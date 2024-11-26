@@ -56,12 +56,115 @@
     },
     "common_gimmicks": {
         "96EE88F38AC594C2": {
-            "name": "Arrow Signboard",
-            "description": "An arrow signboard."
+            "name": "Arrow Signboard"
+        },
+        "42656164506F70537769746368": {
+            "name": "Bead Pop Switch"
+        },
+        "8372815B8359816991E5816A90C2": {
+            "name": "Blue Bead (Large)"
+        },
+        "8372815B835981699286816A90C2": {
+            "name": "Blue Bead (Medium)"
+        },
+        "8372815B835981698FAC816A90C2": {
+            "name": "Blue Bead (Small)"
+        },
+        "427265616B61626C65537472756374757265": {
+            "name": "Breakable Structure"
+        },
+        "43616D4374726C": {
+            "name": "Camera Control"
+        },
+        "834A8381838983815B8380": {
+            "name": "Camera Zoom"
+        },
+        "834A8381838988EA8E9E8359815B8380": {
+            "name": "Camera Zoom (Temporary)"
+        },
+        "8DF782CC96D82831353129": {
+            "name": "Cherry Blossom Tree (151)"
+        },
+        "82DF82AD82E8957A94C49770": {
+            "name": "Cloth Patch"
+        },
+        "928B96E990D882E891D682A68358834383628360": {
+            "name": "Day/Night Switch"
+        },
+        "576F6F6C426C6F636B4E49": {
+            "name": "Denim Block"
+        },
+        "88F882AB8AF182B9957A": {
+            "name": "Drawstring"
+        },
+        "934790B690AC": {
+            "name": "Enemy Generator (1)"
+        },
+        "95AC90858251": {
+            "name": "Fountain (2)"
+        },
+        "8353815B838B8252": {
+            "name": "Goal (3)"
+        },
+        "8372815B8359816991E5816A97CE": {
+            "name": "Green Bead (Large)"
+        },
+        "8372815B835981699286816A97CE": {
+            "name": "Green Bead (Medium)"
+        },
+        "8372815B835981698FAC816A97CE": {
+            "name": "Green Bead (Small)"
+        },
+        "97A0926E8CFB94C49770": {
+            "name": "Mouth Warp Entrance"
+        },
+        "97A0926E8CFB8F6F8CFB": {
+            "name": "Mouth Warp Exit"
+        },
+        "4D7352616365436F75727365": {
+            "name": "MS Race Course"
+        },
+        "4D7352616365476F616C": {
+            "name": "MS Race Goal"
+        },
+        "4D756C746943616D5072696F726974794374726C": {
+            "name": "Multicam Priority Control"
+        },
+        "8372815B8359816991E5816A9EF2": {
+            "name": "Orange Bead (Large)"
+        },
+        "8372815B835981699286816A9EF2": {
+            "name": "Orange Bead (Medium)"
+        },
+        "8372815B835981698FAC816A9EF2": {
+            "name": "Orange Bead (Small)"
+        },
+        "506174684265616447656E657261746F72": {
+            "name": "Path Bead Generator"
+        },
+        "506C617965724D756C746941726561537769746368": {
+            "name": "Player Multi Area Switch"
+        },
+        "5072657669657742674C6F6164": {
+            "name": "Preview BG Load"
+        },
+        "905582E88E71837B835E8393": {
+            "name": "Pendulum Button"
+        },
+        "8372815B835981698FAC816A8E87": {
+            "name": "Purple Bead (Small)"
+        },
+        "8372815B8359816991E5816A90D4": {
+            "name": "Red Bead (Large)"
+        },
+        "8372815B835981699286816A90D4": {
+            "name": "Red Bead (Medium)"
+        },
+        "8372815B835981698FAC816A90D4": {
+            "name": "Red Bead (Small)"
         },
         "8345837E834B8381": {
-            "name": "Sea Turtle",
-            "description": "A sea turtle."
+            "name": "Sea Turtle"
         },
         "53696D706C654D646C476D6B": {
             "name": "Simple Model Gimmick",
@@ -74,6 +177,45 @@
                     "description": "The name of the GfArch archive."
                 }
             }
+        },
+        "536861646F7749746F4F6666736574": {
+            "name": "Shadow Ito Offset"
+        },
+        "8372815B8359816993C191E5816A": {
+            "name": "Star Bead"
+        },
+        "82A895F3": {
+            "name": "Treasure"
+        },
+        "97A08CFB": {
+            "name": "Warp Door"
+        },
+        "8372815B8359816991E5816A9492": {
+            "name": "White Bead (Large)"
+        },
+        "8372815B835981699286816A9492": {
+            "name": "White Bead (Medium)"
+        },
+        "8372815B835981698FAC816A9492": {
+            "name": "White Bead (Small)"
+        },
+        "96D18E8582CC9085": {
+            "name": "Water (1)"
+        },
+        "576F6F6C426C6F636B4642": {
+            "name": "Wool Block (Hollow)"
+        },
+        "576F6F6C426C6F636B46": {
+            "name": "Wool Block (Solid)"
+        },
+        "8372815B8359816991E5816A89A9": {
+            "name": "Yellow Bead (Large)"
+        },
+        "8372815B835981699286816A89A9": {
+            "name": "Yellow Bead (Medium)"
+        },
+        "8372815B835981698FAC816A89A9": {
+            "name": "Yellow Bead (Small)"
         }
     }
 }
