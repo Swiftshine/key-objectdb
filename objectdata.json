@@ -100,6 +100,13 @@
                         "Metamortex": 3,
                         "Box": 4
                     }
+                },
+                
+                "Reveal Tag": {
+                    "data_type": "string",
+                    "slot": 4,
+                    "description": "When this cloth is pulled away, entities with this code will appear.",
+                    "note": "The code is usually stored in the \"common\" string of the target."
                 }
             }
         },
@@ -253,7 +260,14 @@
             "name": "Star Bead"
         },
         "82A895F3": {
-            "name": "Treasure"
+            "name": "Treasure",
+            "description": "A collectible treasure.",
+            "short_parameters": {
+                "Reveal Tag": {
+                    "data_type": "string",
+                    "description": "When a cloth with this tag is pulled away, this gimmick will appear."
+                }
+            }
         },
         "97A08CFB": {
             "name": "Warp Door"
