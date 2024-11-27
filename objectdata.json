@@ -265,7 +265,7 @@
             "short_parameters": {
                 "Reveal Tag": {
                     "data_type": "string",
-                    "description": "When a cloth with this tag is pulled away, this gimmick will appear."
+                    "description": "When a cloth patch with this tag is pulled away, this gimmick will appear."
                 }
             }
         },
