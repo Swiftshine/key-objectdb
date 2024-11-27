@@ -116,7 +116,20 @@
             "name": "Enemy Generator (1)"
         },
         "95AC90858251": {
-            "name": "Fountain (2)"
+            "name": "Fountain (2)",
+            "description": "A water fountain.",
+            "parameters": {
+                "Spray Height": {
+                    "data_type": "float",
+                    "slot": 0,
+                    "description": "How high the water fountain will spray."
+                },
+                "Spray Interval": {
+                    "data_type": "float",
+                    "slot": 1,
+                    "description": "How long the fountain will wait, in seconds, until spraying again."
+                }
+            }
         },
         "8353815B838B8252": {
             "name": "Goal (3)"
