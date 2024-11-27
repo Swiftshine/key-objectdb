@@ -184,7 +184,6 @@
         "53696D706C654D646C476D6B": {
             "name": "Simple Model Gimmick",
             "description": "A simple model.",
-            "note": "The slot of 'Resource Name' is currently unknown.",
             "parameters": {
                 "Resource Name": {
                     "data_type": "string",

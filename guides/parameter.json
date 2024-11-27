@@ -21,9 +21,9 @@
         "description": "A bool. Effectively the same as an int."
     },
     "Sample Int List Parameter": {
-        "data_type": "int_list",
+        "data_type": "dropdown_int",
         "slot": 1,
-        "description": "A list of ints.",
+        "description": "A dropdown of ints.",
         "values": {
             "Sample Value 1": 1,
             "Sample Value 2": 2,
@@ -31,9 +31,9 @@
         }
     },
     "Sample String List Parameter": {
-        "data_type": "string_list",
+        "data_type": "dropdown_string",
         "slot": 2,
-        "description": "A list of strings.",
+        "description": "A dropdown of strings.",
         "values": {
             "Sample Value 1": "Sample String 1",
             "Sample Value 2": "Sample String 2",
