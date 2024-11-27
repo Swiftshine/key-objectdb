@@ -192,7 +192,48 @@
             "name": "Red Bead (Small)"
         },
         "8345837E834B8381": {
-            "name": "Sea Turtle"
+            "name": "Sea Turtle",
+            "description": "A sea turtle that moves left and right.",
+            "note": "By default, the turtle will move left first.",
+            "parameters": {
+                "Turtle Count": {
+                    "data_type": "int",
+                    "slot": 1,
+                    "description": "The number of turtles to spawn.",
+                    "note": "n - 1 turtles will be stacked on top of the first."
+                },
+
+                "Move Right First": {
+                    "data_type": "bool",
+                    "slot": 2,
+                    "description": "Indicates if the turtle should move right first."
+                },
+
+                "Default Counter Value": {
+                    "data_type": "float",
+                    "slot": 0,
+                    "description": "The default value of the turtle's update counter.",
+                    "note": "This value is cast to int in-game."
+                },
+
+                "Speed": {
+                    "data_type": "float",
+                    "slot": 1,
+                    "description": "How far the turtle will travel when \"taking a step\"."
+                },
+
+                "Maximum Distance": {
+                    "data_type": "float",
+                    "slot": 2,
+                    "description": "The maximum distance the turtle will travel in either direction."
+                },
+
+                "Target Gimmick": {
+                    "data_type": "string",
+                    "slot": 0,
+                    "description": "The name of the gimmick that this turtle will interact with."
+                }
+            }
         },
         "53696D706C654D646C476D6B": {
             "name": "Simple Model Gimmick",
