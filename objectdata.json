@@ -76,8 +76,15 @@
         "43616D4374726C": {
             "name": "Camera Control"
         },
-        "834A8381838983815B8380": {
-            "name": "Camera Zoom"
+        "834A838183898359815B8380": {
+            "name": "Camera Zoom",
+            "description": "Defines camera zoom.",
+            "parameters": {
+                "Zoom": {
+                    "data_type": "float",
+                    "slot": 0
+                }
+            }
         },
         "834A8381838988EA8E9E8359815B8380": {
             "name": "Camera Zoom (Temporary)"
