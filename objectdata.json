@@ -48,18 +48,51 @@
             "parameters": {
                 "Length": {
                     "data_type": "float",
-                    "slot": 0,
-                    "description": ""
+                    "slot": 0
                 }
             }
         }
     },
     "common_gimmicks": {
+        "8347838A834196EE88F3288DB629": {
+            "name": "Area Arrow (Left)",
+            "description": "An arrow pointing to the area to the left.",
+            "parameters": {
+                "Next Destination": {
+                    "data_type": "string",
+                    "slot": 0,
+                    "description": "The 4-character area ID that indicates the next area."
+                },
+
+                "Nameplate": {
+                    "data_type": "string",
+                    "slot": 4,
+                    "description": "The nameplate this arrow will display."
+                }
+            }
+        },
+        "8347838A834196EE88F328894529": {
+            "name": "Area Arrow (Right)",
+            "description": "An arrow pointing to the area to the right.",
+            "parameters": {
+                "Next Destination": {
+                    "data_type": "string",
+                    "slot": 0,
+                    "description": "The 4-character area ID that indicates the next area."
+                },
+
+                "Nameplate": {
+                    "data_type": "string",
+                    "slot": 4,
+                    "description": "The nameplate this arrow will display."
+                }
+            }
+        },
         "8347838A834182CC95C728894529": {
-            "name": "Area Wall (Right)"
+            "name": "Area Wall (Left)"
         },
         "8347838A834182CC95C7288DB629": {
-            "name": "Area Wall (Left)"
+            "name": "Area Wall (Right)"
         },
         "96EE88F38AC594C2": {
             "name": "Arrow Signboard"
@@ -288,6 +321,9 @@
         },
         "536861646F7749746F4F6666736574": {
             "name": "Shadow Ito Offset"
+        },
+        "83588365815B8357835A838C834E83678378838B": {
+            "name": "Stage Select Bell"
         },
         "83588365815B8357835A838C834E8367895F": {
             "name": "Stage Select Cloud"
