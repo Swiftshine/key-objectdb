@@ -95,7 +95,30 @@
             "name": "Area Wall (Right)"
         },
         "96EE88F38AC594C2": {
-            "name": "Arrow Signboard"
+            "name": "Arrow Signboard",
+            "description": "A pointing arrow.",
+            "parameters": {
+                "Point Angle": {
+                    "data_type": "int",
+                    "slot": 0,
+                    "description": "Indicates the angle, in degrees, the arrow will point to.",
+                    "note": "0 degrees points to the right. The arrow spins counterclockwise."
+                },
+
+                "Texture": {
+                    "data_type": "dropdown_int",
+                    "slot": 1,
+                    "description": "The texture the arrow will use.",
+                    "values": {
+                        "Red": 0,
+                        "Yellow": 1,
+                        "Tube Town": 2,
+                        "Blue": 3,
+                        "Blub-Blub Ocean": 4,
+                        "Mysterious UFO": 5
+                    }
+                }
+            }
         },
         "42656164506F70537769746368": {
             "name": "Bead Pop Switch"
@@ -353,6 +376,16 @@
         },
         "8372815B8359816991E5816A8E87": {
             "name": "Purple Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
+        },
+        "8372815B835981699286816A8E87": {
+            "name": "Purple Bead (Medium)",
             "parameters": {
                 "Has Gravity": {
                     "data_type": "bool",
