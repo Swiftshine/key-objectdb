@@ -104,13 +104,34 @@
             "name": "BGAsyncBlockNum"
         },
         "8372815B8359816991E5816A90C2": {
-            "name": "Blue Bead (Large)"
+            "name": "Blue Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981699286816A90C2": {
-            "name": "Blue Bead (Medium)"
+            "name": "Blue Bead (Medium)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981698FAC816A90C2": {
-            "name": "Blue Bead (Small)"
+            "name": "Blue Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "427265616B61626C65537472756374757265": {
             "name": "Breakable Structure"
@@ -229,13 +250,34 @@
         },
 
         "8372815B8359816991E5816A97CE": {
-            "name": "Green Bead (Large)"
+            "name": "Green Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981699286816A97CE": {
-            "name": "Green Bead (Medium)"
+            "name": "Green Bead (Medium)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981698FAC816A97CE": {
-            "name": "Green Bead (Small)"
+            "name": "Green Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8357838383938376837B835E8393": {
             "name": "(Unimplemented) Jump Button"
@@ -268,13 +310,34 @@
             "name": "Nameplate"
         },
         "8372815B8359816991E5816A9EF2": {
-            "name": "Orange Bead (Large)"
+            "name": "Orange Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981699286816A9EF2": {
-            "name": "Orange Bead (Medium)"
+            "name": "Orange Bead (Medium)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981698FAC816A9EF2": {
-            "name": "Orange Bead (Small)"
+            "name": "Orange Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "506174684265616447656E657261746F72": {
             "name": "Path Bead Generator"
@@ -288,17 +351,55 @@
         "905582E88E71837B835E8393": {
             "name": "Pendulum Button"
         },
+        "8372815B8359816991E5816A8E87": {
+            "name": "Purple Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
+        },
         "8372815B835981698FAC816A8E87": {
-            "name": "Purple Bead (Small)"
+            "name": "Purple Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B8359816991E5816A90D4": {
-            "name": "Red Bead (Large)"
+            "name": "Red Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981699286816A90D4": {
-            "name": "Red Bead (Medium)"
+            "name": "Red Bead (Medium)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981698FAC816A90D4": {
-            "name": "Red Bead (Small)"
+            "name": "Red Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8345837E834B8381": {
             "name": "Sea Turtle",
@@ -387,13 +488,34 @@
             "name": "Warp Gate"
         },
         "8372815B8359816991E5816A9492": {
-            "name": "White Bead (Large)"
+            "name": "White Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981699286816A9492": {
-            "name": "White Bead (Medium)"
+            "name": "White Bead (Medium)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981698FAC816A9492": {
-            "name": "White Bead (Small)"
+            "name": "White Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "96D18E8582CC9085": {
             "name": "Water (1)",
@@ -419,13 +541,34 @@
             "name": "Wool Block (Solid)"
         },
         "8372815B8359816991E5816A89A9": {
-            "name": "Yellow Bead (Large)"
+            "name": "Yellow Bead (Large)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981699286816A89A9": {
-            "name": "Yellow Bead (Medium)"
+            "name": "Yellow Bead (Medium)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "8372815B835981698FAC816A89A9": {
-            "name": "Yellow Bead (Small)"
+            "name": "Yellow Bead (Small)",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         }
     },
 
