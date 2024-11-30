@@ -466,7 +466,14 @@
             "name": "Stage Select Cloud"
         },
         "8372815B8359816993C191E5816A": {
-            "name": "Star Bead"
+            "name": "Star Bead",
+            "parameters": {
+                "Has Gravity": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the bead has gravity."
+                }
+            }
         },
         "82A895F3": {
             "name": "Treasure",
