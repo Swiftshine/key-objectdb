@@ -159,6 +159,9 @@
                 }
             }
         },
+        "834A815B83658393": {
+            "name": "Curtain"
+        },
         "928B96E990D882E891D682A68358834383628360": {
             "name": "Day/Night Switch"
         },
@@ -184,7 +187,18 @@
         "8AC28BAB836683828AC7979D": {
             "name": "Env Demo Manager"
         },
-        
+        "88AB82CC837D8360906A": {
+            "name": "(Unimplemented) Evil Needle"
+        },
+
+        "8DF2816991E5816A": {
+            "name": "(Unimplemented) Fence (Large)"
+        },
+
+        "8DF281698FAC816A": {
+            "name": "(Unimplemented) Fence (Small)"
+        },
+
         "95AC90858251": {
             "name": "Fountain (2)",
             "description": "A water fountain.",
@@ -201,9 +215,19 @@
                 }
             }
         },
+
+        "834A8347838B": {
+            "name": "Frog"
+        },
+
         "8353815B838B8252": {
             "name": "Goal (3)"
         },
+
+        "(Unimplemented) 9190835783838393837691E4": {
+            "name": "Grass Jump Button"
+        },
+
         "8372815B8359816991E5816A97CE": {
             "name": "Green Bead (Large)"
         },
@@ -212,6 +236,15 @@
         },
         "8372815B835981698FAC816A97CE": {
             "name": "Green Bead (Small)"
+        },
+        "8357838383938376837B835E8393": {
+            "name": "(Unimplemented) Jump Button"
+        },
+        "92B782A2919081699286816A": {
+            "name": "(Unimplemented) Long Grass (Medium)"
+        },
+        "92B782A2919081698FAC816A": {
+            "name": "(Unimplemented) Long Grass (Small)"
         },
         "97A0926E8CFB94C49770": {
             "name": "Mouth Warp Entrance"
@@ -340,6 +373,9 @@
                     "description": "When a cloth patch with this tag is pulled away, this gimmick will appear."
                 }
             }
+        },
+        "95F394A0": {
+            "name": "(Unimplemented) Treasure Chest"  
         },
         "97A08CFB": {
             "name": "Warp Door"
