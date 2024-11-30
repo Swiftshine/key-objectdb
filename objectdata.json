@@ -58,12 +58,17 @@
         "8347838A834182CC95C728894529": {
             "name": "Area Wall (Right)"
         },
-        
+        "8347838A834182CC95C7288DB629": {
+            "name": "Area Wall (Left)"
+        },
         "96EE88F38AC594C2": {
             "name": "Arrow Signboard"
         },
         "42656164506F70537769746368": {
             "name": "Bead Pop Switch"
+        },
+        "42474173796E63426C6F636B4E756D": {
+            "name": "BGAsyncBlockNum"
         },
         "8372815B8359816991E5816A90C2": {
             "name": "Blue Bead (Large)"
@@ -127,12 +132,26 @@
         "576F6F6C426C6F636B4E49": {
             "name": "Denim Block"
         },
+        "83688341": {
+            "name": "Door (Western-style)",
+            "parameters": {
+                "Target Area": {
+                    "data_type": "string",
+                    "slot": 0,
+                    "description": "The 4-character area ID that this door will lead to."
+                }
+            }
+        },
         "88F882AB8AF182B9957A": {
             "name": "Drawstring"
         },
         "934790B690AC": {
             "name": "Enemy Generator (1)"
         },
+        "8AC28BAB836683828AC7979D": {
+            "name": "Env Demo Manager"
+        },
+        
         "95AC90858251": {
             "name": "Fountain (2)",
             "description": "A water fountain.",
@@ -175,6 +194,9 @@
         },
         "4D756C746943616D5072696F726974794374726C": {
             "name": "Multicam Priority Control"
+        },
+        "836C815B83808376838C815B8367": {
+            "name": "Nameplate"
         },
         "8372815B8359816991E5816A9EF2": {
             "name": "Orange Bead (Large)"
@@ -267,6 +289,9 @@
         "536861646F7749746F4F6666736574": {
             "name": "Shadow Ito Offset"
         },
+        "83588365815B8357835A838C834E8367895F": {
+            "name": "Stage Select Cloud"
+        },
         "8372815B8359816993C191E5816A": {
             "name": "Star Bead"
         },
@@ -282,6 +307,9 @@
         },
         "97A08CFB": {
             "name": "Warp Door"
+        },
+        "838F815B8376835183438367": {
+            "name": "Warp Gate"
         },
         "8372815B8359816991E5816A9492": {
             "name": "White Bead (Large)"
