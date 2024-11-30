@@ -224,8 +224,8 @@
             "name": "Goal (3)"
         },
 
-        "(Unimplemented) 9190835783838393837691E4": {
-            "name": "Grass Jump Button"
+        "9190835783838393837691E4": {
+            "name": "(Unimplemented) Grass Jump Button"
         },
 
         "8372815B8359816991E5816A97CE": {
@@ -239,6 +239,9 @@
         },
         "8357838383938376837B835E8393": {
             "name": "(Unimplemented) Jump Button"
+        },
+        "92B782A29190816991E5816A": {
+            "name": "(Unimplemented) Long Grass (Large)"
         },
         "92B782A2919081699286816A": {
             "name": "(Unimplemented) Long Grass (Medium)"
