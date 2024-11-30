@@ -289,7 +289,21 @@
             "name": "White Bead (Small)"
         },
         "96D18E8582CC9085": {
-            "name": "Water (1)"
+            "name": "Water (1)",
+            "description": "A pool of water.",
+            "parameters": {
+                "Width": {
+                    "data_type": "float",
+                    "slot": 0,
+                    "description": "The width of the water pool."
+                },
+
+                "Height": {
+                    "data_type": "float",
+                    "slot": 1,
+                    "description": "The width of the water pool."
+                }
+            }
         },
         "576F6F6C426C6F636B4642": {
             "name": "Wool Block (Hollow)"
