@@ -53,15 +53,15 @@
                     }
                 }
             },
-            "short_parameters": {
-                "Short Parameter Name 1": {
+            "common_parameters": {
+                "Common Parameter Name 1": {
                     "data_type": "int",
                     "slot": 0,
-                    "description": "This slot targets a short parameter. See documentation in this game's decompilation."
+                    "description": "This slot targets a common parameter. See documentation in this game's decompilation."
                 },
-                "Short Parameter Name 2": {
+                "Common Parameter Name 2": {
                     "data_type": "string",
-                    "note": "You can use different data types for short parameters.",
+                    "note": "You can use different data types for common parameters.",
                     "description": "This string's length is limited to 8 characters."
                 }
             }

@@ -511,7 +511,7 @@
         "82A895F3": {
             "name": "Treasure",
             "description": "A collectible treasure.",
-            "short_parameters": {
+            "common_parameters": {
                 "Reveal Tag": {
                     "data_type": "string",
                     "description": "When a cloth patch with this tag is pulled away, this gimmick will appear."
