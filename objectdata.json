@@ -21,7 +21,7 @@
         },
 
         "StageRankSetting": {
-            "description": "A setting related to bead ranking at the end of the level.",
+            "description": "A setting related to bead ranking at the end of the stage.",
             "parameters": {
                 "Bronze Threshold": {
                     "data_type": "int",
@@ -634,5 +634,27 @@
             }
         }
     },
-    "course_infos": {}
+    "course_infos": {
+        "Course_00": {
+            "parameters": {
+                "Point Type": {
+                    "description": "The type of point this object represents.",
+                    "data_type": "dropdown_int",
+                    "slot": 0,
+                    "values": {
+                        "Midpoint": 0,
+                        "Start": 1,
+                        "End": 2
+                    }
+                },
+
+                "Completion Percentage": {
+                    "description": "At this point in the stage, this is how much the race course would have been completed.",
+                    "data_type": "float",
+                    "slot": 0,
+                    "note": "This ranges from 0 to 100."
+                }
+            }
+        }
+    }
 }
