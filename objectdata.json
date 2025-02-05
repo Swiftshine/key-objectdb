@@ -570,7 +570,7 @@
                 "Height": {
                     "data_type": "float",
                     "slot": 1,
-                    "description": "The width of the water pool."
+                    "description": "The height of the water pool."
                 }
             }
         },
