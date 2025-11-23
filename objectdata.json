@@ -492,6 +492,34 @@
         "536861646F7749746F4F6666736574": {
             "name": "Shadow Ito Offset"
         },
+        "89F1935D82B782E9986690AF": {
+            "name": "Spinning Planet",
+            "description": "A spinning celestial object.",
+            "parameters": {
+                "Type": {
+                    "data_type": "dropdown_int",
+                    "slot": 0,
+                    "description": "The type of planet.",
+                    "values": {
+                        "Purple": 0,
+                        "Green": 1,
+                        "Big Blue": 2,
+                        "Small Blue": 3,
+                        "Light Blue": 4,
+                        "Multi-Colored": 5,
+                        "Square with Protrusions": 6,
+                        "Small Star": 7,
+                        "Big Star": 8
+                    }
+                },
+                "Rotation Speed": {
+                    "data_type": "int",
+                    "slot": 1,
+                    "description": "The speed of the planet's rotation.",
+                    "note": "Positive values spin counterclockwise, and negative values spin clockwise."
+                }
+            }
+        },
         "83588365815B8357835A838C834E83678378838B": {
             "name": "Stage Select Bell"
         },
