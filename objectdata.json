@@ -501,12 +501,12 @@
                     "slot": 0,
                     "description": "The type of planet.",
                     "values": {
-                        "Purple": 0,
-                        "Green": 1,
+                        "Purple with Towers": 0,
+                        "Green with Towers": 1,
                         "Big Blue": 2,
                         "Small Blue": 3,
                         "Light Blue": 4,
-                        "Multi-Colored": 5,
+                        "Multi-Colored with Towers": 5,
                         "Square with Protrusions": 6,
                         "Small Star": 7,
                         "Big Star": 8
