@@ -536,6 +536,46 @@
                 }
             }
         },
+        "82DF82AD82E8957A894282B5": {
+            "name": "Sun Patch (Cloth Patch)",
+            "description": "Partially covers the Sun Patch, and activates it when pulled.",
+            "parameters": {
+                "Activation Tag": {
+                    "data_type": "string",
+                    "slot": 4,
+                    "description": "The Sun Patch with this tag will be activated."
+                }
+            }
+        },
+        "928B96E990D882E891D682A6834A815B83658393": {
+            "name": "Sun Patch",
+            "description": "A patch in the shape of the sun. When activated, it will trigger a change in the level graphics by enabling and disabling BGST layers.",
+            "note": "The night indices are displayed first, then the day indices. For each layer index, the game will add 6 to it. E.g. if the set index is -4, the final result will be 2.",
+            "parameters": {
+                "Night Background Layer Index": {
+                    "data_type": "int",
+                    "slot": 0
+                },
+                "Night Foreground Layer Index": {
+                    "data_type": "int",
+                    "slot": 1
+                },
+                "Day Background Layer Index": {
+                    "data_type": "int",
+                    "slot": 2
+                },
+                "Day Foreground Layer Index": {
+                    "data_type": "int",
+                    "slot": 3
+                }
+            },
+            "common_parameters": {
+                "Activation Tag": {
+                    "data_type": "string",
+                    "description": "When the associated cloth patch with this tag is pulled away, this gimmick will activate."
+                }
+            }
+        },
         "82A895F3": {
             "name": "Treasure",
             "description": "A collectible treasure.",
