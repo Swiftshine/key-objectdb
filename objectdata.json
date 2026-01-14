@@ -657,6 +657,11 @@
                         "Right": 3
                     }
                 },
+                "Disabled": {
+                    "data_type": "bool",
+                    "slot": 1,
+                    "description": "Indicates if the wind current spawns disabled."
+                },
                 "Width": {
                     "data_type": "float",
                     "slot": 0,
