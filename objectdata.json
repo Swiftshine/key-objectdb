@@ -595,6 +595,23 @@
         "838F815B8376835183438367": {
             "name": "Warp Gate"
         },
+        "96D18E8582CC9085": {
+            "name": "Water (1)",
+            "description": "A pool of water.",
+            "parameters": {
+                "Width": {
+                    "data_type": "float",
+                    "slot": 0,
+                    "description": "The width of the water pool."
+                },
+
+                "Height": {
+                    "data_type": "float",
+                    "slot": 1,
+                    "description": "The height of the water pool."
+                }
+            }
+        },
         "8372815B8359816991E5816A9492": {
             "name": "White Bead (Large)",
             "parameters": {
@@ -625,20 +642,38 @@
                 }
             }
         },
-        "96D18E8582CC9085": {
-            "name": "Water (1)",
-            "description": "A pool of water.",
+        "9597837B8362834E8358": {
+            "name": "Wind Current",
+            "description": "A wind current.",
             "parameters": {
+                "Direction": {
+                    "data_type": "dropdown_int",
+                    "slot": 0,
+                    "description": "The direction in which the wind blows.",
+                    "values": {
+                        "Up": 0,
+                        "Down": 1,
+                        "Left": 2,
+                        "Right": 3
+                    }
+                },
                 "Width": {
                     "data_type": "float",
                     "slot": 0,
-                    "description": "The width of the water pool."
+                    "description": "The width of the wind current.",
+                    "note": "In-game, values less than or equal to 0 get set to 2."
                 },
-
                 "Height": {
                     "data_type": "float",
                     "slot": 1,
-                    "description": "The height of the water pool."
+                    "description": "The height of the wind current.",
+                    "note": "In-game, values less than or equal to 0 get set to 2."
+                },
+                "Wind Strength": {
+                    "data_type": "float",
+                    "slot": 2,
+                    "description": "The strength of the wind current.",
+                    "note": "In-game, values less than 0 get set to 0."
                 }
             }
         },
