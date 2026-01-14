@@ -667,7 +667,7 @@
                     "data_type": "float",
                     "slot": 1,
                     "description": "The height of the wind current.",
-                    "note": "In-game, values less than or equal to 0 get set to 2."
+                    "note": "In-game, values less than or equal to 0 get set to 5."
                 },
                 "Wind Strength": {
                     "data_type": "float",
